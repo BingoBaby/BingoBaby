@@ -1,11 +1,8 @@
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
-<h1 align="center">Hi 👋, I'm Minh Tien</h1>
+<h1 align="center">My name is Schneider.</h1>
 <p align="center">
-  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+  <h3 align="center">I'm a CS student at TDTU, majoring in Artificial Intelligence. I am interested in the following topics: AI, Machine Learning, Deep Learning in NLP, and Computer Vision.</h3>
 </p>
-
-
-- ✍ I'm a middle software developer at [AkaChain](https://akachain.io/).
 
 <br />
 
