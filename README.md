@@ -2,7 +2,7 @@
 <img align="left" width="300" src="https://www.csoonline.com/wp-content/uploads/2023/06/cso_anonymous_hooded_figure_amid_glitched_code_by_stevanovicigor_gettyimages-913469324_binary_by_valerybrozhinsky_gettyimages-1089997102_2400x1600-100800629-orig.jpg?resize=1024%2C683&quality=50&strip=all">
 <h1 align="center">My name is Schneider.</h1>
 <p align="center">
-  <h3 align="center">I am a CS student at TDTU, majoring in Artificial Intelligence.<br> I am interested in the following topics: AI, Machine Learning, Deep Learning in NLP, and Computer Vision.</h3>
+  <h4 align="center">I am a CS student at TDTU, majoring in Artificial Intelligence.<br> I am interested in the following topics: AI, Machine Learning, Deep Learning in NLP, and Computer Vision.</h4>
 </p>
 <br>
 
