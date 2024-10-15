@@ -4,7 +4,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br>
 <p align="center">
-  <h4 align="center">I graduated with a good degree in computer science from Ton Duc Thang University., majoring in Artificial Intelligence.<br> I am interested in the following topics: AI, Machine Learning, Deep Learning in NLP, and Computer Vision.</h4>
+  <h4 align="center">I graduated with a good degree in computer science from Ton Duc Thang University, majoring in Artificial Intelligence.<br> I am interested in the following topics: AI, Machine Learning, Deep Learning in NLP, and Computer Vision.</h4>
 </p>
 <br>
 
